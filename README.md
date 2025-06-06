@@ -3,6 +3,7 @@
 This repository contains three blockchain simulation projects to understand core blockchain concepts through hands-on coding exercises.
 Contents
 1. Block Simulation (block_simulation.py)
+   
 Objective: Build a basic blockchain with 3 linked blocks using code.
 Features:
 
@@ -14,6 +15,7 @@ Challenge: Change data of Block 1 and observe how following blocks become invali
 
 Goal: Understand how tampering one block affects the entire chain.
 2. Nonce Mining Simulation (mining_simulation.py)
+
 Objective: Simulate Proof-of-Work by mining a block that satisfies a difficulty condition.
 Features:
 
@@ -24,6 +26,7 @@ Print nonce attempts needed and time taken
 
 Goal: Experience how computational effort increases with difficulty.
 3. Consensus Mechanism Simulation (consensus_simulation.py)
+
 Objective: Simulate and compare PoW, PoS, and DPoS logic in code.
 Features:
 
