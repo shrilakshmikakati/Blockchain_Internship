@@ -31,7 +31,6 @@ class Block:
         print(f"Attempts needed: {attempts}")
         print(f"Time taken: {elapsed:.4f} seconds")
 
-# Example usage
 if __name__ == "__main__":
     block = Block(1, time.time(), "Some transaction data", "0")
     difficulty = 4  

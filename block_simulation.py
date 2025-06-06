@@ -32,7 +32,6 @@ class Block:
                 f"Hash: {self.hash}\n"
                 f"Nonce: {self.nonce}\n")
 
-# Creating the blockchain with 3 blocks
 def create_blockchain():
     blockchain = []
 
